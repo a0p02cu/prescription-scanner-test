@@ -1,0 +1,9 @@
+Flask==1.0.3
+Flask-RESTful==0.3.7
+fuzzywuzzy==0.17.0
+requests==2.22.0
+usaddress==0.5.10
+python-Levenshtein
+numpy
+scikit-learn
+nltk
